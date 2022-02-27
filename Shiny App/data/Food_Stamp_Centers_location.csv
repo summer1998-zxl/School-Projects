@@ -1,0 +1,40 @@
+Borough,Name,Address,Zip Code,Contact,Latitude,Longitude,Community Board,Council District ,Census Tract,BIN,BBL,NTA,
+Bronx,Crotona,1910 Monterey Avenue,10457,929-252-7436,40.846932,-73.895099,6,15,37504,2011826,2030600032,East Tremont,
+Bronx,Concourse,"1375 Jerome Avenue, 2nd Fl.",10452,929-252-8998,40.839771,-73.918359,4,16,219,2008289,2028560020,Highbridge,
+Bronx,Hunts Point,"845 Barretto Street, B-Level Fl.",10474,929-252-4445,40.817656,-73.890358,2,17,93,2005939,2027390015,Hunts Point,
+Brooklyn,Coney Island,"2857-2865 West 8th Street, 1st Fl.",11224,929-221-3537,40.578507,-73.976313,13,48,354,3345783,3072790162,West Brighton,
+Brooklyn,Williamsburg,"30 Thornton Street, 4th Fl.",11206,212-331-4314 | 718-963-5142,40.701103,-73.94354,1,33,507,3061504,3022760012,Bedford,
+Brooklyn,East New York,"404 Pine Street, 1st Fl.",11208,929-221-3537,40.67588,-73.871091,5,42,1196,3094690,3042140001,East New York,
+Manhattan,Waverly,"12 West 14th St, 4th Fl.",10011,212-352-2524,40.736301,-73.994342,2,3,63,1009716,1005770034,West Village,
+Manhattan,St. Nicholas,"132 W.125th Street, 3rd Fl.",10027,212-666-8788,40.808451,-73.947112,10,9,222,1057820,1019090012,Central Harlem South,
+Manhattan,East End,"2322 Third Avenue, 3rd Fl.",10035,212-860-5147,40.804468,-73.935267,11,9,242,1054497,1017750033,East Harlem North,
+Manhattan,Washington Heights,"4055 10th Avenue, Lower Level",10034,212-569-9835,40.870388,-73.914561,12,10,301,1064513,1022130001,Marble Hill-Inwood,
+Queens,Jamaica,"165-08 88th Avenue, 3rd Fl.",11432,929-252-3713,40.708661,-73.796703,12,27,460,4210062,4098150056,Jamaica,
+Queens,Rockaway,"219 Beach 59th Street, 1st Fl.",11692,718-637-2750,40.592902,-73.789051,14,31,964,4301932,4159000008,Hammels-Arverne-Edgemere,
+Queens,Queens,"32-20 Northern Blvd., 2nd Fl.",11101,718-784-6315,40.75197,-73.931799,1,26,171,4003105,4002147501,Hunters Point-Sunnyside-West Maspeth,
+Staten Island,Richmond,"201 Bay Street, 2nd Fl.",10301,718-390-6994,40.636992,-74.076212,1,49,21,5013238,5004970009,Stapleton-Rosebank,
+Manhattan,Mainchance,"120 East 32nd Street
+",10016,(212) 883-0680,40.745377,-73.981306,5,2,72,1018469,1008870087,Murray Hill-Kips Bay                                                       ,
+Bronx,The Living Room ,"1241 Lafayette Avenue
+",10474,(718) 893-3606,40.81653,-73.889742,2,17,93,2006002,2027400100,Hunts Point                                                                ,
+Manhattan,Olivieri Center,"257 West 30th Street
+",10001,(212) 947-3211,40.749139,-73.994016,5,3,101,1014337,1007800009,Midtown-Midtown South                                                      ,
+Brooklyn,The Gathering Place,"2402 Atlantic Avenue
+",11233,(212) 883-0680,40.676015,-73.905105,16,37,36502,3038666,3014370008,Ocean Hill                                                                 ,
+Staten Island,Project Hospitality,"25 Central Avenue
+",10301,(718) 273-8409,40.641112,-74.076825,1,49,3,5000027,5000050065,West New Brighton-New Brighton-St. George                                  ,
+Manhattan,"Safe Horizon, Inc",214 West 30th Street,10027,(212) 268-3943,40.74862808,-73.99338311,,,,,,,
+Manhattan,Covenant House,"427 West 52nd Street,",10019,(212) 613-0300 ext. 0532,40.76543659,-73.98926243,,,,Type,,SERVICESOF,URL
+Manhattan,Covenant House,460 West 41st Street,10036,(212) 613-0300 ext. 0531,40.75854147,-73.99557687,,,,Crises,,Runaway and Homeless Youth (RHY) services,http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml
+Brooklyn,Ali Forney Center,241 Taffee Place,11205,(212) 206-0574,40.69090313,-73.95931031,,,,Crises,,Runaway and Homeless Youth (RHY) services,http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml
+Brooklyn,The Turning Point Sunset Terrace,319-321 42nd Street,11220,(718) 640-1560 ext. 9025,40.65202799,-74.00935105,,,,Crises,,Runaway and Homeless Youth (RHY) services,http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml
+Brooklyn,Ali Forney Center,216 23rd Street,11232,(212) 206-0574,40.66053404,-73.99542364,,,,Crises,,Runaway and Homeless Youth (RHY) services,http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml
+Brooklyn,The Turning Point,5220 Fourth Avenue,11220,(718) 439-0077,40.64510298,-74.01450042,,,,Crises,,Runaway and Homeless Youth (RHY) services,http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml
+Bronx,Cardinal McCloskey,333 East 149th Street,10451,(718) 993-5495,40.81698295,-73.92017897,,,,Crises,,Runaway and Homeless Youth (RHY) services,http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml
+Manhattan,The Door,121 6th Avenue,10013,(212) 453-0248,40.72412129,-74.00516928,,,,Crises,,Runaway and Homeless Youth (RHY) services,http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml
+Staten Island,Project Hospitality,1546 Castleton Avenue,10302,(877) 994-6736,40.63574444,-74.13440428,,,,Drop in,,Runaway and Homeless Youth (RHY) services,http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml
+Brooklyn,SCO Family of Services,89 South 10th Street,11221,(718) 384-7083,40.70832273,-73.96509135,,,,Drop in,,Runaway and Homeless Youth (RHY) services,http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml
+Bronx,Bronx Community Pride Center,448 East 149th Street,10455,(718) 292-4368,40.81491019,-73.91562948,,,,Drop in,,Runaway and Homeless Youth (RHY) services,http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml
+Manhattan,"Safe Horizon, Inc",209 West 125th Street,10027,(212) 695-2220,40.80939075,-73.94858861,,,,Drop in,,Runaway and Homeless Youth (RHY) services,http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml
+,,,,,,,,,,Drop in,,Runaway and Homeless Youth (RHY) services,http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml
+,,,,,,,,,,Drop in,,Runaway and Homeless Youth (RHY) services,http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml
