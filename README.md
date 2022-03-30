@@ -14,8 +14,8 @@ I also explored the text corpus using tools from data mining, statistical analys
 Related documents can also be found in **Text Mining Project** folder
 
 
-## Project 2: Shiny App Development
-## --- App Development for under-explored topic on COVID-19 data
+
+## Project 2: Shiny App Development --- App Development for under-explored topic on COVID-19 data
 In this project, working in teams, you will create a R shiny app for exploring and visualizing a previously under-explored topic about COVID-19 in New York City or United States.
 
 ### Summary
